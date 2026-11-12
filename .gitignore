@@ -48,3 +48,5 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+/EP15_implementation_Functions.r
